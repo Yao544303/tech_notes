@@ -1,2 +1,0 @@
-rz -be
-sz file
